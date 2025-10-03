@@ -25,3 +25,5 @@ function areAnagrams(str1: string, str2: string): boolean {
 console.log(areAnagrams("listen", "silent")); // true
 console.log(areAnagrams("triangle", "integral")); // true
 console.log(areAnagrams("hello", "world")); // false
+
+//npx ts-node anagram.ts
